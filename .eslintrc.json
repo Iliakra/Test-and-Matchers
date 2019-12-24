@@ -5,6 +5,7 @@
      "browser": true,
      "jest": true
   },
+  "ignorePatterns": ["dist/" , "node_modules/" , "coverage/"],
   "rules": {
     "no-restricted-syntax": [
       "error",
